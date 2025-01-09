@@ -1,6 +1,6 @@
 package unidad_1.ejercicios_basicos
 
-fun main() {
+fun ej27() {
     print("Introduce el nombre del producto: ")
     val nombreProducto = readlnOrNull() ?: ""
 
